@@ -1,0 +1,118 @@
+{
+  "contacts": [
+    {
+      "name": "Nurlan",
+      "surname": "Toktogulov",
+      "phone": 1234566778,
+      "id": 3
+    },
+    {
+      "name": "Ruslan",
+      "surname": "Toktogulov",
+      "phone": 55555555,
+      "id": 4
+    },
+    {
+      "name": "Sanzhar",
+      "surname": "Omurgaziev",
+      "phone": 444444,
+      "id": 6
+    },
+    {
+      "name": "Amantur",
+      "surname": "Arzymatov",
+      "phone": 9999999999,
+      "id": 7
+    },
+    {
+      "name": "Dastan",
+      "surname": "Arzymatov",
+      "phone": 996703075110,
+      "id": 8
+    },
+    {
+      "name": "Aliaskar",
+      "surname": "Kushubekov",
+      "phone": 996703075110,
+      "id": 9
+    },
+    {
+      "name": "Temirlan",
+      "surname": "Ismailov",
+      "phone": 996703075110,
+      "id": 10
+    },
+    {
+      "name": "Zharkynay",
+      "surname": "Nazarbekova",
+      "phone": 996703075110,
+      "id": 11
+    },
+    {
+      "name": "Zumrad",
+      "surname": "Bektenov",
+      "phone": 996703075110,
+      "id": 12
+    },
+    {
+      "name": "Beykut",
+      "surname": "Tolobaldieva",
+      "phone": 996703075110,
+      "id": 13
+    },
+    {
+      "name": "Aida",
+      "surname": "Zhokenova",
+      "phone": 996703075110,
+      "id": 14
+    },
+    {
+      "name": "Aygul",
+      "surname": "Umarova",
+      "phone": 996703075110,
+      "id": 15
+    },
+    {
+      "name": "Aydana",
+      "surname": "Toktogulova",
+      "phone": 996703075110,
+      "id": 16
+    },
+    {
+      "name": "Petr",
+      "surname": "Semenyak",
+      "phone": 996703075110,
+      "id": 17
+    },
+    {
+      "name": "Ulan",
+      "surname": "Iskakov",
+      "phone": 996703075110,
+      "id": 18
+    },
+    {
+      "name": "Akylbek",
+      "surname": "Derkenbaev",
+      "phone": 996703075110,
+      "id": 19
+    },
+    {
+      "name": "Begimay",
+      "surname": "Nurlanbekova",
+      "phone": 996703075110,
+      "id": 20
+    },
+    {
+      "name": "Kamila",
+      "surname": "Usenbekova",
+      "phone": 996703075110,
+      "id": 21
+    },
+    {
+      "name": "Azhar",
+      "surname": "Nurdinova",
+      "phone": 996703075110,
+      "id": 22
+    }
+  ]
+}

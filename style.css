@@ -1,0 +1,46 @@
+.search-block {
+  display: flex;
+  justify-content: space-around;
+}
+.newContact {
+  margin: 20px;
+}
+
+form {
+  margin: 20px 0;
+}
+
+.inp-search {
+  width: 800px;
+  height: 35px;
+}
+
+.add-form input,
+.edit-form input {
+  margin: 10px 0;
+}
+.btn-delete img,
+.btn-edit img {
+  width: 30px;
+}
+
+.btn-delete,
+.btn-edit {
+  border: none;
+  background: transparent;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #f5f4f4;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fff;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+.pagination button {
+  margin: 5px;
+}
